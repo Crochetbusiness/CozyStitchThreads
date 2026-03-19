@@ -195,7 +195,7 @@ margin-top:10px;
 <div class="products">
 
 <div class="product">
-<img src="hand-bag.png" onclick="openImage(this.src)">
+<img src="Hand bag.png" onclick="openImage(this.src)">
 <h3>Crochet Handbag</h3>
 <p class="price">₹499</p>
 </div>
