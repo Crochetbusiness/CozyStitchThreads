@@ -258,156 +258,197 @@ footer{
       <img src="handbag.png" alt="Crochet Handbag" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Crochet Handbag</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Handbag%20(%E2%82%B9499).">Order on WhatsApp</a>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Handbag%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Handbag%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="bags">
       <img src="mobile-pouch.png" alt="Mobile / Sunglass Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Mobile / Sunglass Pouch — Classic</h3>
       <p class="price">₹199</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Mobile%2FSunglass%20Pouch%20-%20Classic%20(%E2%82%B9199).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Mobile%2FSunglass%20Pouch%20-%20Classic%20(%E2%82%B9199).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="bags">
       <img src="sling-mobile.png" alt="Mobile / Sunglass Pouch - Sling style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Mobile / Sunglass Pouch — Sling Style</h3>
       <p class="price">₹199</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Mobile%2FSunglass%20Pouch%20-%20Sling%20Style%20(%E2%82%B9199).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Mobile%2FSunglass%20Pouch%20-%20Sling%20Style%20(%E2%82%B9199).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="scarves">
       <img src="red-scarf.png" alt="Winter Crochet Scarf with Bow - Red" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf with Bow — Red</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20with%20Bow%20-%20Red%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20with%20Bow%20-%20Red%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="scarves">
       <img src="green-scarf.png" alt="Winter Crochet Scarf - Green" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — Green</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20Green%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20Green%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="scarves">
       <img src="white-scarf.png" alt="Winter Crochet Scarf - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — White</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20White%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20White%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="scarves">
       <img src="whitescarfwithbow.png" alt="Winter Crochet Scarf with Bow - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf with Bow — White</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20with%20Bow%20-%20White%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20with%20Bow%20-%20White%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="scarves">
       <img src="bluepink-scarf.png" alt="Winter Crochet Scarf - Blue and Pink" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — Blue &amp; Pink</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20Blue%20%26%20Pink%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20Blue%20%26%20Pink%20(%E2%82%B9499).">Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="scarves">
       <img src="blue-scarf.png" alt="Winter Crochet Scarf - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — Blue</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20Blue%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Winter%20Scarf%20-%20Blue%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="bags">
       <img src="sling-bag.png" alt="Crochet Sling Bag" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Crochet Sling Bag</h3>
       <p class="price">₹399</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Sling%20Bag%20(%E2%82%B9399).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Sling%20Bag%20(%E2%82%B9399).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="brown-jumpsuit.png" alt="Baby Jumpsuit - Brown" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jumpsuit — Brown</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jumpsuit%20-%20Brown%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jumpsuit%20-%20Brown%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="orange-jumpsuit.png" alt="Baby Jumpsuit - Orange" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jumpsuit — Orange</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jumpsuit%20-%20Orange%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jumpsuit%20-%20Orange%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="redwhite-frock.png" alt="Baby Dress with Cap and Socks - Red and White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Dress with Cap &amp; Socks — Red &amp; White</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20Red%20%26%20White%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20Red%20%26%20White%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="white-babyfrock.png" alt="Baby Dress with Cap and Socks - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Dress with Cap &amp; Socks — White</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20White%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20White%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="multicolor-babydress.png" alt="Baby Jacket with Cap and Socks - Multicolor" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jacket with Cap &amp; Socks — Multicolor</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Multicolor%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Multicolor%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="ombre-frock.png" alt="Baby Jacket with Cap and Socks - Ombre" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jacket with Cap &amp; Socks — Ombre</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Ombre%20(%E2%82%B9499).">Order on WhatsApp</a>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Ombre%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Ombre%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="blue-sweater.png" alt="Baby Sweater with Cap and Socks - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Sweater with Cap &amp; Socks — Blue</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Sweater%20-%20Blue%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Sweater%20-%20Blue%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="purple-sweater.png" alt="Small Baby Sweater with Cap - Purple" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Small Baby Sweater with Cap — Purple</h3>
       <p class="price">₹399</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Small%20Baby%20Sweater%20-%20Purple%20(%E2%82%B9399).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Small%20Baby%20Sweater%20-%20Purple%20(%E2%82%B9399).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
       <img src="tricolor.png" alt="Tricolour Baby Sweater with Cap and Socks" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Tricolour Baby Sweater with Cap &amp; Socks</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Tricolour%20Baby%20Sweater%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Tricolour%20Baby%20Sweater%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="women">
       <img src="lady-sweater.png" alt="Women's Crochet Top" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Women's Top</h3>
       <p class="price">₹499</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Women's%20Top%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Women's%20Top%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="blankets">
       <img src="baby-blanketS.png" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Small</h3>
       <p class="price">₹799</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Blanket%20-%20Small%20(%E2%82%B9799).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Blanket%20-%20Small%20(%E2%82%B9799).">
+      Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="blankets">
       <img src="baby-blanketL.png" alt="Baby Blanket - Large" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Large</h3>
       <p class="price">₹999</p>
-      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Blanket%20-%20Large%20(%E2%82%B9999).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Blanket%20-%20Large%20(%E2%82%B9999).">
+      Order on WhatsApp</a>
     </div>
 
   </div>
@@ -417,7 +458,9 @@ footer{
 
 <footer>
   <p>Interested in ordering?</p>
-  <a class="whatsapp" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'd%20like%20to%20know%20more%20about%20CozyStitch%20Threads.">Contact on WhatsApp</a>
+  <a class="whatsapp" target="_blank" rel="noopener" 
+    href="https://wa.me/919643104868?text=Hi!%20I'd%20like%20to%20know%20more%20about%20CozyStitch%20Threads.">
+    Contact on WhatsApp</a>
   <p style="margin-top:15px;">© 2026 CozyStitch Threads</p>
 </footer>
 
