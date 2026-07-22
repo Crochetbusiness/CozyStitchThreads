@@ -259,6 +259,7 @@ footer{
       <h3>Crochet Handbag</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Handbag%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Crochet%20Handbag%20(%E2%82%B9499).">Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="bags">
@@ -364,6 +365,7 @@ footer{
       <h3>Baby Jacket with Cap &amp; Socks — Ombre</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Ombre%20(%E2%82%B9499).">Order on WhatsApp</a>
+      <a class="order-btn" target="_blank" rel="noopener" href="https://wa.me/91XXXXXXXXXX?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Ombre%20(%E2%82%B9499).">Order on WhatsApp</a>
     </div>
 
     <div class="product" data-category="baby">
