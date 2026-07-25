@@ -176,15 +176,28 @@ h2.section-title{
 
 /* Popup Box */
 .modal-content-wrapper{
-    background:#fff;
-    width:90%;
-    max-width:850px;
-    margin:50px auto;
-    padding:25px;
-    border-radius:15px;
     text-align:center;
-    position:relative;
-    box-shadow:0 10px 30px rgba(0,0,0,.3);
+    color:white;
+    max-width:700px;
+    margin:auto;
+}
+
+#popupTitle{
+    margin-top:20px;
+    font-size:28px;
+}
+
+#popupDescription{
+    margin-top:15px;
+    font-size:17px;
+    line-height:1.7;
+}
+
+#popupPrice{
+    margin-top:20px;
+    font-size:24px;
+    color:#ffd166;
+    font-weight:bold;
 }
 
 /* Product Image */
