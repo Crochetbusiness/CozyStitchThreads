@@ -196,6 +196,29 @@ h2.section-title{
   outline-offset:4px;
 }
 
+.modal-content-wrapper{
+    background:#fff;
+    border-radius:12px;
+    padding:20px;
+    max-width:700px;
+    margin:50px auto;
+    text-align:center;
+}
+
+#popupTitle{
+    margin-top:15px;
+    font-size:24px;
+    color:#333;
+}
+
+#popupDescription{
+    margin-top:10px;
+    font-size:16px;
+    color:#666;
+    line-height:1.6;
+}
+
+  
 /* Footer */
 footer{
   background:#eeeeee;
