@@ -442,7 +442,7 @@ footer{
     </div>
 
 <div class="product" data-category="blankets">
-      <img src="baby-blanket-medium.png" alt="Baby Blanket - Medium" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-Medium.png" alt="Baby Blanket - Medium" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Medium</h3>
       <p class="price">₹799</p>
       <a class="order-btn" target="_blank" rel="noopener" 
