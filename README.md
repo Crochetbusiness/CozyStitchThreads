@@ -166,7 +166,6 @@ h2.section-title{
 
   
 
-
 /* ---------- Popup ---------- */
 
   
@@ -174,8 +173,9 @@ h2.section-title{
     display:none;
     position:fixed;
     inset:0;
-    background:rgba(0,0,0,.85);
+    background:rgba(0,0,0,.75);
     z-index:9999;
+  overflow:auto;
 }
 
 
@@ -183,29 +183,30 @@ h2.section-title{
     width:90%;
     max-width:500px;
     margin:40px auto;
-    text-align:center;
     background:#fff;
     border-radius:15px;
     padding:20px;
-    color:#333;
+    text-align:center;
 }
 
 .popup-content{
+    display:block;
     width:100%;
-    max-width:300px;
-    max-height:300px;
+    max-width:280px;
+    max-height:280px;
+    margin:0 auto;
     object-fit:contain;
-    border-radius:12px;
+    border-radius:10px;
 }
 
 
-.close{
+close{
     position:absolute;
-    top:10px;
-    right:15px;
-    font-size:32px;
+    top:20px;
+    right:25px;
+    color:#fff;
+    font-size:38px;
     cursor:pointer;
-    color:#555;
 }
 
 .close:hover{
