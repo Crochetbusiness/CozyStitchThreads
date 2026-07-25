@@ -234,9 +234,20 @@ footer{
 </header>
 
 <!-- IMAGE POPUP -->
-<div id="imagePopup" class="popup" role="dialog" aria-modal="true" aria-label="Product image preview">
-  <span class="close" onclick="closeImage()" role="button" tabindex="0" aria-label="Close image" onkeydown="if(event.key==='Enter')closeImage()">&times;</span>
-  <img class="popup-content" id="popupImg" alt="Enlarged product photo">
+<div id="imagePopup" class="popup">
+    <div class="modal-content-wrapper">
+
+        <span class="close" onclick="closeImage()">&times;</span>
+
+        <img id="popupImage" class="popup-content">
+
+        <h2 id="popupTitle"></h2>
+
+        <div id="popupDescription"></div>
+
+        <div id="popupPrice"></div>
+
+    </div>
 </div>
 
 <div class="container">
