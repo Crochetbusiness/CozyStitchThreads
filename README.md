@@ -168,69 +168,118 @@ h2.section-title{
 
 /* ---------- Popup ---------- */
 
-  
+
 .popup{
     display:none;
     position:fixed;
     inset:0;
     background:rgba(0,0,0,.75);
     z-index:9999;
-  overflow:auto;
+    overflow:auto;
 }
 
+.popup-card{
 
-.modal-content-wrapper{
     width:90%;
     max-width:500px;
-    margin:40px auto;
-    background:#fff;
+
+    margin:60px auto;
+
+    background:white;
+
     border-radius:15px;
-    padding:20px;
+
+    padding:25px;
+
     text-align:center;
+
+    position:relative;
+
+    animation:popupFade .25s ease;
 }
 
-.popup-content{
-    display:block;
+.popup-image{
+
     width:100%;
-    max-width:280px;
-    max-height:280px;
-    margin:0 auto;
+
+    max-width:300px;
+
+    max-height:300px;
+
     object-fit:contain;
+
     border-radius:10px;
 }
 
+.close{
 
-close{
     position:absolute;
-    top:20px;
-    right:25px;
-    color:#fff;
-    font-size:38px;
+
+    top:10px;
+
+    right:18px;
+
+    font-size:34px;
+
     cursor:pointer;
+
+    color:#666;
 }
 
 .close:hover{
+
     color:#000;
 }
 
 #popupTitle{
-    margin:15px 0 10px;
-    color:#222;
+
+    margin-top:18px;
+
     font-size:24px;
+
+    color:#333;
 }
 
 #popupDescription{
-    margin:10px 0;
+
+    margin-top:15px;
+
     color:#555;
-    line-height:1.6;
+
+    line-height:1.7;
+
+    text-align:left;
 }
 
 #popupPrice{
-    margin-top:12px;
-    font-size:22px;
-    color:#c26a4a;
+
+    margin-top:18px;
+
+    font-size:24px;
+
     font-weight:bold;
+
+    color:#C26A4A;
 }
+
+@keyframes popupFade{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(20px);
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+    }
+}
+
+
   
 /* Close Button */
 .close{
@@ -554,21 +603,46 @@ footer{
 </footer>
 
 <script>
-function openImage(src, alt){
-  document.getElementById("imagePopup").style.display = "block";
-  var img = document.getElementById("popupImg");
-  img.src = src;
-  img.alt = alt || "Enlarged product photo";
+
+function openImage(src,title,description="",price=""){
+
+    document.getElementById("imagePopup").style.display="block";
+
+    document.getElementById("popupImage").src=src;
+
+    document.getElementById("popupTitle").innerHTML=title;
+
+    document.getElementById("popupDescription").innerHTML=description;
+
+    document.getElementById("popupPrice").innerHTML=price;
+
 }
+
 function closeImage(){
-  document.getElementById("imagePopup").style.display = "none";
+
+    document.getElementById("imagePopup").style.display="none";
 }
-document.addEventListener("keydown", function(e){
-  if(e.key === "Escape") closeImage();
+
+window.onclick=function(event){
+
+    if(event.target==document.getElementById("imagePopup")){
+
+        closeImage();
+
+    }
+
+}
+
+document.addEventListener("keydown",function(e){
+
+    if(e.key==="Escape"){
+
+        closeImage();
+
+    }
+
 });
-document.getElementById("imagePopup").addEventListener("click", function(e){
-  if(e.target === this) closeImage();
-});
+
 
 // Category filtering
 var filterBtns = document.querySelectorAll(".filter-btn");
