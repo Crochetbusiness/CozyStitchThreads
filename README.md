@@ -166,64 +166,67 @@ h2.section-title{
 
   
 /* Popup Background */
+
+/* ---------- Popup ---------- */
+
 .popup{
     display:none;
     position:fixed;
     inset:0;
-    z-index:999;
-    background:rgba(0,0,0,0.85);
-    overflow:auto;
-}
-
-/* Popup Box */
-
-#popupTitle{
-    margin:15px 0 10px;
-    font-size:28px;
-}
-
-#popupDescription{
-    font-size:16px;
-    line-height:1.7;
-    margin-bottom:15px;
-}
-
-#popupPrice{
-    font-size:24px;
-    color:#FFD166;
-    font-weight:bold;
-}
-
-/* Product Image */
-
-.popup{
-    display:none;
-    position:fixed;
-    z-index:999;
-    left:0;
-    top:0;
-    width:100%;
-    height:100%;
-    overflow:auto;
-    background:rgba(0,0,0,.9);
+    background:rgba(0,0,0,.85);
+    z-index:9999;
 }
 
 .modal-content-wrapper{
     width:90%;
-    max-width:650px;
+    max-width:500px;
     margin:40px auto;
+    background:#fff;
+    border-radius:12px;
+    padding:20px;
     text-align:center;
-    color:white;
+    position:relative;
 }
 
 .popup-content{
     width:100%;
-    max-width:350px;
-    max-height:350px;
+    max-width:280px;
+    max-height:280px;
     object-fit:contain;
-    border-radius:12px;
+    border-radius:10px;
 }
 
+.close{
+    position:absolute;
+    top:10px;
+    right:15px;
+    font-size:32px;
+    cursor:pointer;
+    color:#555;
+}
+
+.close:hover{
+    color:#000;
+}
+
+#popupTitle{
+    margin:15px 0 10px;
+    color:#222;
+    font-size:24px;
+}
+
+#popupDescription{
+    margin:10px 0;
+    color:#555;
+    line-height:1.6;
+}
+
+#popupPrice{
+    margin-top:12px;
+    font-size:22px;
+    color:#c26a4a;
+    font-weight:bold;
+}
   
 /* Close Button */
 .close{
