@@ -201,14 +201,18 @@ h2.section-title{
 }
 
 /* Product Image */
+
 .popup-content{
-    display:block;
-    width:100%;
-    max-width:500px;
-    margin:0 auto;
-    border-radius:10px;
+  display:block;
+  margin:20px auto;
+  width:auto;
+  max-width:500px;
+  max-height:60vh;
+  border-radius:12px;
+  object-fit:contain;
 }
 
+  
 /* Close Button */
 .close{
     position:absolute;
