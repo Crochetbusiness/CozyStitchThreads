@@ -362,7 +362,11 @@ footer{
   <h2 class="tagline">Handmade Crochet Creations</h2>
 </header>
 
-
+<!-- IMAGE POPUP -->
+<div id="imagePopup" class="popup" role="dialog" aria-modal="true" aria-label="Product image preview">
+  <span class="close" onclick="closeImage()" role="button" tabindex="0" aria-label="Close image" onkeydown="if(event.key==='Enter')closeImage()">&times;</span>
+  <img class="popup-content" id="popupImg" alt="Enlarged product photo">
+</div>
 
 <div class="container">
   <h2 class="section-title">Our Products</h2>
