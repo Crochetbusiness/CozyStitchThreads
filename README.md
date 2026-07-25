@@ -176,40 +176,40 @@ h2.section-title{
 
 /* Popup Box */
 .modal-content-wrapper{
-    text-align:center;
-    color:white;
     max-width:700px;
     margin:auto;
+    text-align:center;
+    color:white;
+    padding:20px;
 }
 
 #popupTitle{
-    margin-top:20px;
+    margin:15px 0 10px;
     font-size:28px;
 }
 
 #popupDescription{
-    margin-top:15px;
-    font-size:17px;
+    font-size:16px;
     line-height:1.7;
+    margin-bottom:15px;
 }
 
 #popupPrice{
-    margin-top:20px;
     font-size:24px;
-    color:#ffd166;
+    color:#FFD166;
     font-weight:bold;
 }
 
 /* Product Image */
 
 .popup-content{
-  display:block;
-  margin:20px auto;
-  width:auto;
-  max-width:500px;
-  max-height:60vh;
-  border-radius:12px;
-  object-fit:contain;
+    display:block;
+    width:100%;
+    max-width:400px;
+    max-height:50vh;
+    margin:20px auto;
+    object-fit:contain;
+    border-radius:12px;
 }
 
   
