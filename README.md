@@ -169,6 +169,7 @@ h2.section-title{
 
 /* ---------- Popup ---------- */
 
+  
 .popup{
     display:none;
     position:fixed;
@@ -177,24 +178,26 @@ h2.section-title{
     z-index:9999;
 }
 
+
 .modal-content-wrapper{
     width:90%;
     max-width:500px;
     margin:40px auto;
-    background:#fff;
-    border-radius:12px;
-    padding:20px;
     text-align:center;
-    position:relative;
+    background:#fff;
+    border-radius:15px;
+    padding:20px;
+    color:#333;
 }
 
 .popup-content{
     width:100%;
-    max-width:280px;
-    max-height:280px;
+    max-width:300px;
+    max-height:300px;
     object-fit:contain;
-    border-radius:10px;
+    border-radius:12px;
 }
+
 
 .close{
     position:absolute;
