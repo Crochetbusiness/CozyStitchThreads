@@ -506,36 +506,3 @@ filterBtns.forEach(function(btn){
 
 </body>
 </html>
-function closeImage(){
-  document.getElementById("imagePopup").style.display = "none";
-}
-document.addEventListener("keydown", function(e){
-  if(e.key === "Escape") closeImage();
-});
-document.getElementById("imagePopup").addEventListener("click", function(e){
-  if(e.target === this) closeImage();
-});
-
-// Category filtering
-var filterBtns = document.querySelectorAll(".filter-btn");
-var products = document.querySelectorAll(".product");
-var emptyState = document.getElementById("emptyState");
-
-filterBtns.forEach(function(btn){
-  btn.addEventListener("click", function(){
-    filterBtns.forEach(function(b){ b.classList.remove("active"); });
-    btn.classList.add("active");
-    var filter = btn.getAttribute("data-filter");
-    var visibleCount = 0;
-    products.forEach(function(p){
-      var show = filter === "all" || p.getAttribute("data-category") === filter;
-      p.style.display = show ? "" : "none";
-      if(show) visibleCount++;
-    });
-    emptyState.style.display = visibleCount === 0 ? "block" : "none";
-  });
-});
-</script>
-
-</body>
-</html>
