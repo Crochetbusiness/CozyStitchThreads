@@ -164,6 +164,7 @@ h2.section-title{
   display:none;
 }
 
+  
 /* Popup Background */
 .popup{
     display:none;
@@ -175,13 +176,6 @@ h2.section-title{
 }
 
 /* Popup Box */
-.modal-content-wrapper{
-    max-width:700px;
-    margin:auto;
-    text-align:center;
-    color:white;
-    padding:20px;
-}
 
 #popupTitle{
     margin:15px 0 10px;
@@ -202,12 +196,30 @@ h2.section-title{
 
 /* Product Image */
 
-.popup-content{
-    display:block;
+.popup{
+    display:none;
+    position:fixed;
+    z-index:999;
+    left:0;
+    top:0;
     width:100%;
-    max-width:400px;
-    max-height:50vh;
-    margin:20px auto;
+    height:100%;
+    overflow:auto;
+    background:rgba(0,0,0,.9);
+}
+
+.modal-content-wrapper{
+    width:90%;
+    max-width:650px;
+    margin:40px auto;
+    text-align:center;
+    color:white;
+}
+
+.popup-content{
+    width:100%;
+    max-width:350px;
+    max-height:350px;
     object-fit:contain;
     border-radius:12px;
 }
