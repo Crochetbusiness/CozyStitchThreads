@@ -178,102 +178,55 @@ h2.section-title{
 }
 
 .popup-card{
-
     width:90%;
     max-width:500px;
-
     margin:60px auto;
-
-    background:white;
-
+    background:#fff;
     border-radius:15px;
-
     padding:25px;
-
     text-align:center;
-
     position:relative;
-
     animation:popupFade .25s ease;
 }
 
+
 .popup-image{
-
     width:100%;
-
     max-width:300px;
-
     max-height:300px;
-
     object-fit:contain;
-
     border-radius:10px;
 }
 
-.close{
 
-    position:absolute;
-
-    top:10px;
-
-    right:18px;
-
-    font-size:34px;
-
-    cursor:pointer;
-
-    color:#666;
-}
-
-.close:hover{
-
-    color:#000;
-}
 
 #popupTitle{
-
     margin-top:18px;
-
     font-size:24px;
-
     color:#333;
 }
 
 #popupDescription{
-
     margin-top:15px;
-
     color:#555;
-
     line-height:1.7;
-
     text-align:left;
 }
 
 #popupPrice{
-
     margin-top:18px;
-
     font-size:24px;
-
     font-weight:bold;
-
     color:#C26A4A;
 }
 
 @keyframes popupFade{
-
     from{
-
         opacity:0;
-
         transform:translateY(20px);
     }
-
     to{
-
         opacity:1;
-
         transform:translateY(0);
     }
 }
