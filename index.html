@@ -528,19 +528,25 @@ footer{
 
 <script>
        
-function openImage(src, title, description = "", price = ""){
-    document.getElementById("imagePopup").style.display = "block";
+
+function openImage(src,title,description="",price=""){
+
+    document.getElementById("imagePopup").style.display="block";
 
     document.getElementById("popupImage").src = src;
-    document.getElementById("popupImage").alt = title;
 
-    document.getElementById("popupTitle").innerText = title;
+    document.getElementById("popupTitle").innerHTML = title;
 
     document.getElementById("popupDescription").innerHTML = description;
 
     document.getElementById("popupPrice").innerHTML =
         price ? "<strong>Price:</strong> " + price : "";
+
 }
+
+
+
+
   
 function closeImage(){
   document.getElementById("imagePopup").style.display = "none";
