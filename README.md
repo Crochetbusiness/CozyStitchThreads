@@ -455,9 +455,9 @@ footer{
     <div class="product" data-category="baby">
       <img src="white-babyfrock.png" alt="Baby Dress with Cap and Socks - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Dress with Cap &amp; Socks — White</h3>
-      <p class="price">₹499</p>
+      <p class="price">₹599</p>
       <a class="order-btn" target="_blank" rel="noopener" 
-      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20White%20(%E2%82%B9499).">
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20White%20(%E2%82%B9599).">
       Order on WhatsApp</a>
     </div>
 
