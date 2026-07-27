@@ -482,7 +482,32 @@ footer{
 
 
 
+<div class="product" data-category="baby">
+      <img src="baby-dress-Mint.png" alt="Baby Dress with Cap and Socks - Mint Green" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Baby dress with Cap &amp; Socks — Mint Green</h3>
+      <p class="price">₹499</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20Mint%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
+    </div>
 
+<div class="product" data-category="baby">
+      <img src="baby-dress-lavender.png" alt="Baby Dress with Cap and Socks - Lavender" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Baby dress with Cap &amp; Socks — Lavender</h3>
+      <p class="price">₹499</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Dress%20-%20Lavender%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
+    </div>
+
+<div class="product" data-category="baby">
+      <img src="baby-dress-mintwhite.png" alt="Baby Jacket with Cap and Socks - Offwhite with Mint" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Baby jacket with Cap &amp; Socks — Offwhite with Mint</h3>
+      <p class="price">₹499</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Jacket%20-%20Offwhite%20(%E2%82%B9499).">
+      Order on WhatsApp</a>
+    </div>
     
 
     <div class="product" data-category="baby">
