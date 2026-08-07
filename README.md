@@ -591,6 +591,29 @@ footer{
       Order on WhatsApp</a>
     </div>
 
+
+
+<div class="product" data-category="blankets">
+      <img src="baby-blanket-blueflower.png" alt="Baby Blanket - Blue Flower detailing" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Baby Blanket — Blue Flower detailing</h3>
+      <p class="price">₹1199</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Blanket%20-%20BlueFlower%20(%E2%82%B91199).">
+      Order on WhatsApp</a>
+    </div>
+
+
+
+<div class="product" data-category="blankets">
+      <img src="baby-blanket-pinkflower.png" alt="Baby Blanket - Blue Flower detailing" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Baby Blanket — Pink Flower detailing</h3>
+      <p class="price">₹1199</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Baby%20Blanket%20-%20PinkFlower%20(%E2%82%B91199).">
+      Order on WhatsApp</a>
+    </div>
+
+
     
     <div class="product" data-category="blankets">
       <img src="baby-blanket-Large.png" alt="Baby Blanket - Large" loading="lazy" onclick="openImage(this.src, this.alt)">
