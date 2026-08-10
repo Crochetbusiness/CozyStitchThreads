@@ -355,6 +355,46 @@ footer{
       Order on WhatsApp</a>
     </div>
 
+
+
+<div class="product" data-category="bags">
+      <img src="CoinPouch.png" alt="Coin Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Coin Pouch — Classic</h3>
+      <p class="price">₹99</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Coin%20Pouch%20-%20Classic%20(%E2%82%B999).">
+      Order on WhatsApp</a>
+    </div>
+
+<div class="product" data-category="bags">
+      <img src="coinpouchpink.png" alt="Coin Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Coin Pouch — Classic</h3>
+      <p class="price">₹99</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Coin%20Pouch%20-%20Classic%20(%E2%82%B999).">
+      Order on WhatsApp</a>
+    </div>
+
+
+<div class="product" data-category="bags">
+      <img src="potli.png" alt="Potli Handbag" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Potli Handbag with Rose — Classic</h3>
+      <p class="price">₹199</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Potli%20Hnadbag%20(%E2%82%B9199).">
+      Order on WhatsApp</a>
+    </div>
+
+<div class="product" data-category="bags">
+      <img src="Tictac.png" alt="Beautiful Tactic" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Beautiful Tictac pair available in two colours</h3>
+      <p class="price">₹49</p>
+      <a class="order-btn" target="_blank" rel="noopener" 
+      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Tictac%20(%E2%82%B9149).">
+      Order on WhatsApp</a>
+    </div>
+
+
     <div class="product" data-category="bags">
       <img src="sling-mobile.png" alt="Mobile / Sunglass Pouch - Sling style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Mobile / Sunglass Pouch — Sling Style</h3>
