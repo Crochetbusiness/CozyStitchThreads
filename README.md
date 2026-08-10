@@ -377,8 +377,8 @@ footer{
 
 
 <div class="product" data-category="bags">
-      <img src="potli.png" alt="Potli Handbag" loading="lazy" onclick="openImage(this.src, this.alt)">
-      <h3>Potli Handbag with Rose — Classic</h3>
+      <img src="Potli.png" alt="Potli Handbag" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <h3>Potli Handbag with Rose</h3>
       <p class="price">₹199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
       href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Potli%20Hnadbag%20(%E2%82%B9199).">
