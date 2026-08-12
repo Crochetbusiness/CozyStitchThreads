@@ -262,6 +262,19 @@ h2.section-title{
     color:#222;
 }
 
+
+.original-price {
+    color: #999;
+    text-decoration: line-through;
+    margin-right: 8px;
+}
+
+.sale-price {
+    color: #A85C4B;
+    font-weight: 700;
+}
+
+  
 /* Description */
 #popupDescription{
     margin-top:15px;
@@ -349,16 +362,7 @@ footer{
       Order on WhatsApp</a>
     </div>
 
-.original-price {
-    color: #999;
-    text-decoration: line-through;
-    margin-right: 8px;
-}
 
-.sale-price {
-    color: #A85C4B;
-    font-weight: 700;
-}
     
 
     <div class="product" data-category="bags">
