@@ -131,6 +131,20 @@ h2.section-title{
   font-size:17px;
   min-height:44px;
 }
+
+
+.original-price {
+    color: #999;
+    text-decoration: line-through;
+    margin-right: 8px;
+}
+
+.sale-price {
+    color: #A85C4B;
+    font-weight: 700;
+}
+
+  
 .price{
   color:var(--clay);
   font-weight:bold;
@@ -263,16 +277,7 @@ h2.section-title{
 }
 
 
-.original-price {
-    color: #999;
-    text-decoration: line-through;
-    margin-right: 8px;
-}
 
-.sale-price {
-    color: #A85C4B;
-    font-weight: 700;
-}
 
   
 /* Description */
