@@ -133,14 +133,22 @@ h2.section-title{
 }
 
 
+.price {
+    color: var(--clay);
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0 15px 15px 15px;
+}
+
 .original-price {
     color: #999;
     text-decoration: line-through;
     margin-right: 8px;
+    font-weight: 400;
 }
 
 .sale-price {
-    color: #A85C4B;
+    color: var(--clay);
     font-weight: 700;
 }
 
