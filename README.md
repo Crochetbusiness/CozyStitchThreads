@@ -144,13 +144,9 @@ h2.section-title{
     font-weight: 700;
 }
 
+
+
   
-.price{
-  color:var(--clay);
-  font-weight:bold;
-  font-size:18px;
-  margin:0 15px 15px 15px;
-}
 .order-btn{
   display:block;
   background:#25D366;
