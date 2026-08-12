@@ -349,7 +349,16 @@ footer{
       Order on WhatsApp</a>
     </div>
 
+.original-price {
+    color: #999;
+    text-decoration: line-through;
+    margin-right: 8px;
+}
 
+.sale-price {
+    color: #A85C4B;
+    font-weight: 700;
+}
     
 
     <div class="product" data-category="bags">
