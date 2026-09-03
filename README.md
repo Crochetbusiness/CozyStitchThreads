@@ -338,15 +338,24 @@ footer{
   </div>
 
 
+<div class="product" data-category="bags">
+    <img src="Square shoulder bag.png" alt="Square Shoulder bag" loading="lazy" onclick="openImage(this.src, this.alt)">
+    <h3>Square Shoulder bag</h3>
+  <p class="price">₹399</p>
 
-    
+    <a class="order-btn" target="_blank" rel="noopener"
+       href="https://wa.me/919643104868?text=Hi%21%20I%27m%20interested%20in%20the%20Square%20Shoulder%20bag%20%28%E2%82%B9399).">
+        Order on WhatsApp
+    </a>
+</div>
+ 
 
     <div class="product" data-category="bags">
       <img src="mobile-pouch.png" alt="Mobile / Sunglass Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Mobile / Sunglass Pouch — Classic</h3>
       <p class="price">₹199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
-      href="https://wa.me/919643104868?text=Hi!%20I'm%20interested%20in%20the%20Mobile%2FSunglass%20Pouch%20-%20Classic%20(%E2%82%B9199).">
+    href="https://wa.me/919643104868text=Hi!%20I'm%20interested%20in%20the%20Mobile%2FSunglass%20Pouch%20%20Classic%20(%E2%82%B9199).">
       Order on WhatsApp</a>
     </div>
 
