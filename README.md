@@ -8,9 +8,9 @@
 <meta name="description" content="Handmade crochet bags, scarves, baby wear and more from CozyStitch Threads. Order directly on WhatsApp.">
 <meta property="og:title" content="CozyStitch Threads | Handmade Crochet Creations">
 <meta property="og:description" content="Handmade crochet bags, scarves, baby wear and more. Order directly on WhatsApp.">
-<meta property="og:image" content="logo2.png">
+<meta property="og:image" content="logo2.jpg">
 <meta property="og:type" content="website">
-<link rel="icon" type="image/png" href="logo2.png">
+<link rel="icon" type="image/jpg" href="logo2.jpg">
 
 <style>
 :root{
@@ -310,7 +310,7 @@ footer{
 
 <header class="site-header">
   <div class="header-container">
-    <img src="logo2.png" alt="CozyStitch Threads Logo" class="logo">
+    <img src="logo2.jpg" alt="CozyStitch Threads Logo" class="logo">
   </div>
 </header>
 
@@ -339,7 +339,7 @@ footer{
 
 
 <div class="product" data-category="bags">
-    <img src="Square shoulder bag.png" alt="Square Shoulder bag" loading="lazy" onclick="openImage(this.src, this.alt)">
+    <img src="Square shoulder bag.jpg" alt="Square Shoulder bag" loading="lazy" onclick="openImage(this.src, this.alt)">
     <h3>Square Shoulder bag</h3>
   <p class="price">₹399</p>
 
@@ -351,7 +351,7 @@ footer{
  
 
     <div class="product" data-category="bags">
-      <img src="mobile-pouch.png" alt="Mobile / Sunglass Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="mobile-pouch.jpg" alt="Mobile / Sunglass Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Mobile / Sunglass Pouch — Classic</h3>
       <p class="price">₹199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -362,7 +362,7 @@ footer{
 
 
 <div class="product" data-category="bags">
-      <img src="CoinPouch.png" alt="Coin Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="CoinPouch.jpg" alt="Coin Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Coin Pouch — Classic</h3>
       <p class="price">₹99</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -371,7 +371,7 @@ footer{
     </div>
 
 <div class="product" data-category="bags">
-      <img src="coinpouchpink.png" alt="Coin Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="coinpouchpink.jpg" alt="Coin Pouch - Classic style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Coin Pouch — Classic</h3>
       <p class="price">₹99</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -381,7 +381,7 @@ footer{
 
 
 <div class="product" data-category="bags">
-      <img src="Potli.png" alt="Potli Handbag" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="Potli.jpg" alt="Potli Handbag" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Potli Handbag with Rose</h3>
       <p class="price">₹199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -390,7 +390,7 @@ footer{
     </div>
 
 <div class="product" data-category="bags">
-      <img src="Tictac.png" alt="Beautiful Tactic" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="Tictac.jpg" alt="Beautiful Tactic" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Beautiful Tictac pair available in two colours</h3>
       <p class="price">₹49</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -400,7 +400,7 @@ footer{
 
 
     <div class="product" data-category="bags">
-      <img src="sling-mobile.png" alt="Mobile / Sunglass Pouch - Sling style" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="sling-mobile.jpg" alt="Mobile / Sunglass Pouch - Sling style" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Mobile / Sunglass Pouch — Sling Style</h3>
       <p class="price">₹199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -409,7 +409,7 @@ footer{
     </div>
 
     <div class="product" data-category="scarves">
-      <img src="red-scarf.png" alt="Winter Crochet Scarf with Bow - Red" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="red-scarf.jpg" alt="Winter Crochet Scarf with Bow - Red" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf with Bow — Red</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -418,7 +418,7 @@ footer{
     </div>
 
     <div class="product" data-category="scarves">
-      <img src="green-scarf.png" alt="Winter Crochet Scarf - Green" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="green-scarf.jpg" alt="Winter Crochet Scarf - Green" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — Green</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener">
@@ -426,7 +426,7 @@ footer{
     </div>
 
     <div class="product" data-category="scarves">
-      <img src="white-scarf.png" alt="Winter Crochet Scarf - White" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="white-scarf.jpg" alt="Winter Crochet Scarf - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — White</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -435,7 +435,7 @@ footer{
     </div>
 
     <div class="product" data-category="scarves">
-      <img src="whitescarfwithbow.png" alt="Winter Crochet Scarf with Bow - White" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="whitescarfwithbow.jpg" alt="Winter Crochet Scarf with Bow - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf with Bow — White</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -444,7 +444,7 @@ footer{
     </div>
 
     <div class="product" data-category="scarves">
-      <img src="bluepink-scarf.png" alt="Winter Crochet Scarf - Blue and Pink" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="bluepink-scarf.jpg" alt="Winter Crochet Scarf - Blue and Pink" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — Blue &amp; Pink</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -452,7 +452,7 @@ footer{
     </div>
 
     <div class="product" data-category="scarves">
-      <img src="blue-scarf.png" alt="Winter Crochet Scarf - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="blue-scarf.jpg" alt="Winter Crochet Scarf - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Winter Scarf — Blue</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -461,7 +461,7 @@ footer{
     </div>
 
     <div class="product" data-category="bags">
-      <img src="sling-bag.png" alt="Crochet Sling Bag" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="sling-bag.jpg" alt="Crochet Sling Bag" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Crochet Sling Bag</h3>
       <p class="price">₹399</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -470,7 +470,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="brown-jumpsuit.png" alt="Baby Jumpsuit - Brown" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="brown-jumpsuit.jpg" alt="Baby Jumpsuit - Brown" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jumpsuit — Brown</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -479,7 +479,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="orange-jumpsuit.png" alt="Baby Jumpsuit - Orange" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="orange-jumpsuit.jpg" alt="Baby Jumpsuit - Orange" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jumpsuit — Orange</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -488,7 +488,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="redwhite-frock.png" alt="Baby Dress with Cap and Socks - Red and White" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="redwhite-frock.jpg" alt="Baby Dress with Cap and Socks - Red and White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Dress with Cap &amp; Socks — Red &amp; White</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -497,7 +497,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="white-babyfrock.png" alt="Baby Dress with Cap and Socks - White" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="white-babyfrock.jpg" alt="Baby Dress with Cap and Socks - White" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Dress with Cap &amp; Socks — White</h3>
       <p class="price">₹599</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -506,7 +506,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="multicolor-babydress.png" alt="Baby Jacket with Cap and Socks - Multicolor" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="multicolor-babydress.jpg" alt="Baby Jacket with Cap and Socks - Multicolor" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jacket with Cap &amp; Socks — Multicolor</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -516,7 +516,7 @@ footer{
 
 
     <div class="product" data-category="baby">
-      <img src="ombre-frock.png" alt="Baby Jacket with Cap and Socks - Ombre" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="ombre-frock.jpg" alt="Baby Jacket with Cap and Socks - Ombre" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Jacket with Cap &amp; Socks — Ombre</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -527,7 +527,7 @@ footer{
 
 
 <div class="product" data-category="baby">
-      <img src="baby-dress-Mint.png" alt="Baby Dress with Cap and Socks - Mint Green" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-dress-Mint.jpg" alt="Baby Dress with Cap and Socks - Mint Green" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby dress with Cap &amp; Socks — Mint Green</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -536,7 +536,7 @@ footer{
     </div>
 
 <div class="product" data-category="baby">
-      <img src="baby-dress-lavender.png" alt="Baby Dress with Cap and Socks - Lavender" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-dress-lavender.jpg" alt="Baby Dress with Cap and Socks - Lavender" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby dress with Cap &amp; Socks — Lavender</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -545,7 +545,7 @@ footer{
     </div>
 
 <div class="product" data-category="baby">
-      <img src="baby-dress-mintwhite.png" alt="Baby Jacket with Cap and Socks - Offwhite with Mint" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-dress-mintwhite.jpg" alt="Baby Jacket with Cap and Socks - Offwhite with Mint" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby jacket with Cap &amp; Socks — Offwhite with Mint</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -555,7 +555,7 @@ footer{
     
 
     <div class="product" data-category="baby">
-      <img src="blue-sweater.png" alt="Baby Sweater with Cap and Socks - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="blue-sweater.jpg" alt="Baby Sweater with Cap and Socks - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Sweater with Cap &amp; Socks — Blue</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -564,7 +564,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="purple-sweater.png" alt="Small Baby Sweater with Cap - Purple" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="purple-sweater.jpg" alt="Small Baby Sweater with Cap - Purple" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Small Baby Sweater with Cap — Purple</h3>
       <p class="price">₹399</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -573,7 +573,7 @@ footer{
     </div>
 
     <div class="product" data-category="baby">
-      <img src="tricolor.png" alt="Tricolour Baby Sweater with Cap and Socks" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="tricolor.jpg" alt="Tricolour Baby Sweater with Cap and Socks" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Tricolour Baby Sweater with Cap &amp; Socks</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -582,7 +582,7 @@ footer{
     </div>
 
     <div class="product" data-category="women">
-      <img src="lady-sweater.png" alt="Women's Crochet Top" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="lady-sweater.jpg" alt="Women's Crochet Top" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Women's Top</h3>
       <p class="price">₹499</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -591,7 +591,7 @@ footer{
     </div>
 
     <div class="product" data-category="blankets">
-      <img src="baby-blanketS.png" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanketS.jpg" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Small</h3>
       <p class="price">₹799</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -600,7 +600,7 @@ footer{
     </div>
 
     <div class="product" data-category="blankets">
-      <img src="baby-blanket-Mint.png" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-Mint.jpg" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Small</h3>
       <p class="price">₹799</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -609,7 +609,7 @@ footer{
     </div>
 
 <div class="product" data-category="blankets">
-      <img src="baby-blanket-Offwhite.png" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-Offwhite.jpg" alt="Baby Blanket - Small" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Small</h3>
       <p class="price">₹799</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -618,7 +618,7 @@ footer{
     </div>
 
 <div class="product" data-category="blankets">
-      <img src="baby-blanket-Medium.png" alt="Baby Blanket - Medium" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-Medium.jpg" alt="Baby Blanket - Medium" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Medium</h3>
       <p class="price">₹799</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -627,7 +627,7 @@ footer{
     </div>
 
 <div class="product" data-category="blankets">
-      <img src="baby-blanket-blue.png" alt="Baby Blanket - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-blue.jpg" alt="Baby Blanket - Blue" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Blue</h3>
       <p class="price">₹999</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -638,7 +638,7 @@ footer{
 
 
 <div class="product" data-category="blankets">
-      <img src="baby-blanket-blueflower.png" alt="Baby Blanket - Blue Flower detailing" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-blueflower.jpg" alt="Baby Blanket - Blue Flower detailing" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Blue Flower detailing</h3>
       <p class="price">₹1199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -649,7 +649,7 @@ footer{
 
 
 <div class="product" data-category="blankets">
-      <img src="baby-blanket-pinkflower.png" alt="Baby Blanket - Blue Flower detailing" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-pinkflower.jpg" alt="Baby Blanket - Blue Flower detailing" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Pink Flower detailing</h3>
       <p class="price">₹1199</p>
       <a class="order-btn" target="_blank" rel="noopener" 
@@ -660,7 +660,7 @@ footer{
 
     
     <div class="product" data-category="blankets">
-      <img src="baby-blanket-Large.png" alt="Baby Blanket - Large" loading="lazy" onclick="openImage(this.src, this.alt)">
+      <img src="baby-blanket-Large.jpg" alt="Baby Blanket - Large" loading="lazy" onclick="openImage(this.src, this.alt)">
       <h3>Baby Blanket — Large</h3>
       <p class="price">₹999</p>
       <a class="order-btn" target="_blank" rel="noopener" 
